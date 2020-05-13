@@ -68,7 +68,7 @@ methods:{
 
 .a1{
   width:100%;
-  height:350px;
+  height:225px;
   /*border:1px background black;
   */
   background:white;
